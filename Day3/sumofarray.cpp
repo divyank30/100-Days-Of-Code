@@ -1,4 +1,4 @@
-Sum of array
+//Sum of array
 
 //{ Driver Code Starts
 #include <iostream>
