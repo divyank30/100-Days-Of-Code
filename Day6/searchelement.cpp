@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&difficulty[]=-1&status[]=solved&sortBy=submissions
+//https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&difficulty[]=-1&status[]=solved&sortBy=submissions
 
 //{ Driver Code Starts
 #include<bits/stdc++.h>
