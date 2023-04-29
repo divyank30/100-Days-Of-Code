@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/searching-a-number0324/1?page=2&difficulty[]=-1&status[]=unsolved&sortBy=submissions
+//https://practice.geeksforgeeks.org/problems/searching-a-number0324/1?page=2&difficulty[]=-1&status[]=unsolved&sortBy=submissions
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
