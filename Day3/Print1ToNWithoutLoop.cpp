@@ -1,4 +1,4 @@
-Print 1 To N Without Loop
+//Print 1 To N Without Loop
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
