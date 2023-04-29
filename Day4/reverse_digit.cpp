@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1?page=1&difficulty[]=-2&status[]=unsolved&sortBy=submissions
+//https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1?page=1&difficulty[]=-2&status[]=unsolved&sortBy=submissions
 
 //{ Driver Code Starts
 
