@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/sum-of-array2326/1?page=1&difficulty[]=-2&status[]=unsolved&category[]=Arrays&sortBy=submissions
+//https://practice.geeksforgeeks.org/problems/sum-of-array2326/1?page=1&difficulty[]=-2&status[]=unsolved&category[]=Arrays&sortBy=submissions
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
