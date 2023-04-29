@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/c-input-output2432/1?page=2&difficulty[]=-2&sortBy=submissions
+//https://practice.geeksforgeeks.org/problems/c-input-output2432/1?page=2&difficulty[]=-2&sortBy=submissions
 
 //{ Driver Code Starts
 #include<bits/stdc++.h> 
