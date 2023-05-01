@@ -1,4 +1,4 @@
-
+https://practice.geeksforgeeks.org/problems/odd-or-even3618/1?page=1&difficulty[]=-2&status[]=unsolved&category[]=Mathematical&sortBy=submissions
 
 //{ Driver Code Starts
 #include<bits/stdc++.h> 
